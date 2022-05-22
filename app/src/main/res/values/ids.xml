@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idTVsubTitle" type="id" />
+    <item name="idTVTitle" type="id" />
+    <item name="idBtnNewsRead" type="id" />
+    <item name="idRVCategories" type="id" />
+</resources>
